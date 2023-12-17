@@ -17,7 +17,7 @@
 <p> The repository includes the code for the GitHub page, project boards for the website and content, and an extensive report on this topic. This repository therefore contains the HTML and CSS required to operate the webpage.  </p>
 
 <ul> 
-   <li> <a href="mms142-groupa-2023.github.io"> Smart Cities: Digital Solutions for a Sustainable, Connected, and More Livable Future </a> </li>
+   <li> <a href= "https://appurl.io/ZyWOJP3nyr"> Smart Cities: Digital Solutions for a Sustainable, Connected, and More Livable Future  </a></li>
 <li> <a href="https://docs.google.com/document/d/1HJsIhwu9xKJ8XA508pbQ4uREgmofNFA2z7FBDtOAq5g/edit?usp=sharing](https://docs.google.com/document/d/1HJsIhwu9xKJ8XA508pbQ4uREgmofNFA2z7FBDtOAq5g/edit?usp=sharing/"> Document Draft </a>
 </li>
   <li> <a href="https://docs.google.com/document/d/1vTYpY3QnzrzbnNvRvoO3uz9NALBd_reK2vB_Y_tSVMY/edit?usp=sharing"> Research Content </a> </li>
